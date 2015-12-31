@@ -8,7 +8,7 @@ fi
 
 yum_functions_sh="true"
 
-. ./utils.sh
+. ./util_functions.sh
 
 # Yum_Update Updates a list
 #

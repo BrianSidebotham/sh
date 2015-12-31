@@ -8,7 +8,7 @@ fi
 
 user_functions_sh="true"
 
-. ./utils.sh
+. ./util_functions.sh
 
 # Test to see if a user exists. Returns 1 if the user exists, 0 otherwise
 

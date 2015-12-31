@@ -8,7 +8,7 @@ fi
 
 network_functions_sh="true"
 
-. ./utils.sh
+. ./util_functions.sh
 
 # Internet_Connected returns non-zero when ping works with google
 # Input Parameters:
